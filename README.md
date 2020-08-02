@@ -1,2 +1,2 @@
 # benchmark-js-tests
-Testes de performance do JS
+Testes de performance no JavaScript utilizando o [Benchmark.js](https://benchmarkjs.com)
